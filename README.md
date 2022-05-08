@@ -2,7 +2,6 @@
 
 I am Ernesto, a full stack developer based on Miami <img src="https://c.tenor.com/Ay_uNCobnMcAAAAi/american-flag-america.gif" width=30/>. 
 
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 <p align="center">
   <img src="https://c.tenor.com/1lscxdaCK4IAAAAC/starwars-greetings.giff" height=250px alt="Hello there gif"/>
   <br/>
