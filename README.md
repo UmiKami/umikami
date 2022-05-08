@@ -1,6 +1,7 @@
 # Hey there! Welcome to my profile! <img src="https://c.tenor.com/rcJjYhft92UAAAAC/teehee-cling.gif" height=50px alt="Peace sign greetings gif"/>
 
-I am Ernesto, a full stack developer based on Miami <img src="https://c.tenor.com/Ay_uNCobnMcAAAAi/american-flag-america.gif" width=30/>.
+I am Ernesto, a full stack developer based on Miami <img src="https://c.tenor.com/Ay_uNCobnMcAAAAi/american-flag-america.gif" width=30/>. 
+
 
 <p align="center">
   <img src="https://c.tenor.com/1lscxdaCK4IAAAAC/starwars-greetings.giff" height=250px alt="Hello there gif"/>
@@ -14,8 +15,15 @@ I am Ernesto, a full stack developer based on Miami <img src="https://c.tenor.co
 
 </p>
 
+### Status
+---
+I am currently focusing on learning new technologies and expanding my horizons. Planning on learning the basics of systems programming by the end of summer through C and Unix. <img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width=25/>
 
-## Tools & Languages
+<p align="center">
+  <img src="https://preview.redd.it/mbgbtzaxq6s61.jpg?auto=webp&s=39ea66c2757bbdd61de9bd5e7624e27b0bce7bab" width=350/>
+</p>
+
+## Tools & Languages  
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
