@@ -3,7 +3,7 @@
 I am Ernesto, a full stack developer based on Miami <img src="https://c.tenor.com/Ay_uNCobnMcAAAAi/american-flag-america.gif" width="30"/>. 
 
 <p align="center">
-  <img src="https://c.tenor.com/1lscxdaCK4IAAAAC/starwars-greetings.giff" height=250px alt="Hello there gif"/>
+  <img src="https://c.tenor.com/1lscxdaCK4IAAAAC/starwars-greetings.giff" height="250px" alt="Hello there gif"/>
   <br/>
    <img src="https://img.shields.io/github/stars/UmiKami?color=yellow&style=for-the-badge&logo=github&logoColor=white"/>
   <a href="https://www.linkedin.com/in/ernesto-x-gonzalez-lopez/" target="_blank">
@@ -16,10 +16,10 @@ I am Ernesto, a full stack developer based on Miami <img src="https://c.tenor.co
 
 ### Status
 ---
-I am currently focusing on learning new technologies and expanding my horizons. Planning on learning the basics of systems programming by the end of summer through C and Unix. <img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width=25px/>
+I am currently focusing on learning new technologies and expanding my horizons. Planning on learning the basics of systems programming by the end of summer through C and Unix. <img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="25"/>
 
 <p align="center">
-  <img src="https://preview.redd.it/mbgbtzaxq6s61.jpg?auto=webp&s=39ea66c2757bbdd61de9bd5e7624e27b0bce7bab" width=350px/>
+  <img src="https://preview.redd.it/mbgbtzaxq6s61.jpg?auto=webp&s=39ea66c2757bbdd61de9bd5e7624e27b0bce7bab" width="350"/>
 </p>
 
 ## Tools & Languages  
@@ -56,8 +56,8 @@ I am currently focusing on learning new technologies and expanding my horizons. 
 
 1. Currently working on a job search app on a team of 4.
     - App eases the job search and application processes for the user. <br/>
-      <img src="https://c.tenor.com/kXhTOeHgVKgAAAAC/listen-its-very-easy.gif" width=150/>
-    - User creates account, user searches for their desire job position, user uploads resume and we provide them with a more "desirable" <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width=30/> resume.
+      <img src="https://c.tenor.com/kXhTOeHgVKgAAAAC/listen-its-very-easy.gif" width="150"/>
+    - User creates account, user searches for their desire job position, user uploads resume and we provide them with a more "desirable" <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="30"/> resume.
 
 ## Check out my stats
 ![Ernesto's profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umikami&theme=vue)
