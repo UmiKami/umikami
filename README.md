@@ -1,6 +1,6 @@
 # Hey there! Welcome to my profile! <img src="https://c.tenor.com/rcJjYhft92UAAAAC/teehee-cling.gif" height=50px alt="Peace sign greetings gif"/>
 
-I am Ernesto, a full stack developer based on Miami <img src="https://c.tenor.com/Ay_uNCobnMcAAAAi/american-flag-america.gif" width=10/>. 
+I am Ernesto, a full stack developer based on Miami <img src="https://c.tenor.com/Ay_uNCobnMcAAAAi/american-flag-america.gif" width=30px/>. 
 
 <p align="center">
   <img src="https://c.tenor.com/1lscxdaCK4IAAAAC/starwars-greetings.giff" height=250px alt="Hello there gif"/>
@@ -16,10 +16,10 @@ I am Ernesto, a full stack developer based on Miami <img src="https://c.tenor.co
 
 ### Status
 ---
-I am currently focusing on learning new technologies and expanding my horizons. Planning on learning the basics of systems programming by the end of summer through C and Unix. <img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width=25/>
+I am currently focusing on learning new technologies and expanding my horizons. Planning on learning the basics of systems programming by the end of summer through C and Unix. <img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width=25px/>
 
 <p align="center">
-  <img src="https://preview.redd.it/mbgbtzaxq6s61.jpg?auto=webp&s=39ea66c2757bbdd61de9bd5e7624e27b0bce7bab" width=350/>
+  <img src="https://preview.redd.it/mbgbtzaxq6s61.jpg?auto=webp&s=39ea66c2757bbdd61de9bd5e7624e27b0bce7bab" width=350px/>
 </p>
 
 ## Tools & Languages  
