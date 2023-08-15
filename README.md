@@ -16,10 +16,10 @@ I am Ernesto, a full stack developer based on Miami <img src="https://c.tenor.co
 
 ### Status
 ---
-I am currently focusing on learning new technologies and expanding my horizons. Planning on learning the basics of systems programming by the end of summer through C and Unix. <img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="25"/>
+I am currently working as a deployment lead while expanding my horizons outside of work. Given the fairly recent advancement in machine learning and AI, I am planning on getting started with it by September.  
 
 <p align="center">
-  <img src="https://preview.redd.it/mbgbtzaxq6s61.jpg?auto=webp&s=39ea66c2757bbdd61de9bd5e7624e27b0bce7bab" width="350"/>
+  <img src="https://media.tenor.com/77ZFtPoGlD4AAAAC/beep-boop-robot.gif" width="350"/>
 </p>
 
 ## Tools & Languages  
@@ -30,6 +30,8 @@ I am currently focusing on learning new technologies and expanding my horizons. 
 ![](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![]( https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](  https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![](  https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](  https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -54,10 +56,18 @@ I am currently focusing on learning new technologies and expanding my horizons. 
 
 ## Current projects
 
-1. Currently working on a job search app on a team of 4.
-    - App eases the job search and application processes for the user. <br/>
-      <img src="https://c.tenor.com/kXhTOeHgVKgAAAAC/listen-its-very-easy.gif" width="150"/>
-    - User creates account, user searches for their desire job position, user uploads resume and we provide them with a more "desirable" <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="30"/> resume.
+1. Photos Phoenix Social Media Site
+    - Flask Backend 25% done  
+       ![](  https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](  https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](  https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+    -  NextJS Frontend 0% done - TBS  
+       ![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+2. AnimeSearchUS Anime Info Site - [Live Preview [Alpha]](https://animesearch.us/)
+    - Flask backend 0% done - TBS  
+      ![](  https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](  https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](  https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+    - React Frontend (layout) 85% done  
+      ![](  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![]( https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+    - Using Kitsu API, planning on becoming independent from it by Q1 2024.
 
 ## Check out my stats
 ![Ernesto's profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umikami&theme=vue)
