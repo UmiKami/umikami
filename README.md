@@ -51,7 +51,7 @@ I am currently working as a deployment lead while expanding my horizons outside 
 ![]( https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umikami"/>
+  <img src="https://umikami-stats-api.vercel.app/api/top-langs/?username=umikami"/>
 </p>
 
 ## Current projects
