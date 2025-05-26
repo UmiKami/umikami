@@ -16,11 +16,7 @@ I am Ernesto, a full stack developer based on Miami <img src="https://c.tenor.co
 
 ### Status
 ---
-I am currently working as a deployment lead while expanding my horizons outside of work. Given the fairly recent advancement in machine learning and AI, I am planning on getting started with it by September.  
-
-<p align="center">
-  <img src="https://media.tenor.com/77ZFtPoGlD4AAAAC/beep-boop-robot.gif" width="350"/>
-</p>
+Having Aha! Momements every day. Currently working full time and working on passion project on the side. [See project](#CurrentProjects) 
 
 ## Tools & Languages  
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -56,18 +52,17 @@ I am currently working as a deployment lead while expanding my horizons outside 
 
 ## Current projects
 
-1. Photos Phoenix Social Media Site
-    - Flask Backend 25% done  
-       ![](  https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](  https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](  https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-    -  NextJS Frontend 0% done - TBS  
-       ![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-2. AnimeSearchUS Anime Info Site - [Live Preview [Alpha]](https://animesearch.us/)
-    - Flask backend 0% done - TBS  
-      ![](  https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](  https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](  https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-    - React Frontend (layout) 85% done  
+1. AnimeSearchUS Anime Info Site - [Live Preview [Alpha]](https://animesearch.us/)
+    - Flask backend 20% done - TBS  
+      ![](  https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](  ) ![](  https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge) ![](  ) ![](  https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=golang&logoColor=white) ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](  https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+      - This is my primary focus right now. Frontend has been put aside as a lot of the issues right now are due to a lack of backend.
+    - React Frontend (layout) 40% done  
       ![](  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![]( https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-    - Using Kitsu API, planning on becoming independent from it by Q1 2024.
+      - Note completion percentage has been moved back as additional features such as user profile, user favorites, user watchlist, and authentication have been added to the scope. A redesign of the site is also planned as current one is dull.
+      - Additionally I may begin using typescript and redux (TBD) for better maintenance in the future.
+      - Also planning to integrate tailwindcss to substitute bootstrap for better flexibility.
+    
+    - Using Kitsu API, planning on becoming independent from it by Q4 2025.
 
 ## Check out my stats
 ![Ernesto's profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umikami&theme=vue)
