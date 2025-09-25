@@ -47,7 +47,7 @@ Having Aha! Momements every day. Currently working full time and working on pass
 ![]( https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 <br/>
 <p align="center">
-  <img src="https://umikami-stats-api.vercel.app/api/top-langs/?username=umikami"/>
+  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?umikami" frameborder="0"></iframe>
 </p>
 
 ## Current projects
